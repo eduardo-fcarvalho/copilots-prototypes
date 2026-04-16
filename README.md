@@ -103,27 +103,6 @@ Explica conceitos com profundidade.
 
 ---
 
-## 🎭 Estilo de resposta
-
-As respostas seguem um padrão analítico inspirado na personagem EDI (Mass Effect):
-
-- Linguagem objetiva e impessoal  
-- Baseadas em lógica  
-- Com justificativas técnicas claras  
-- Focadas em consequência e impacto  
-
----
-
-## ⚙️ Casos de uso
-
-- Desenvolvimento backend (Node / Spring)  
-- Padronização de respostas em times  
-- Criação de copilotos internos  
-- Estudos estruturados de tecnologia  
-- Debugging guiado  
-
----
-
 ## 🛠️ Como usar
 
 1. Escolha o modo (`Agent`, `Plan`, `Ask` ou `Study`)  
